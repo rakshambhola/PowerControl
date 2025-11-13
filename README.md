@@ -7,6 +7,12 @@ Built using Python and compiled into standalone `.exe` files for quick execution
 
 ---
 
+## 📂Assets
+
+* Latest Release: [PowerControl-v.0.9.0.zip](https://github.com/rakshambhola/PowerControl/releases/download/v.0.9.0/PowerControl.zip)
+
+---
+
 ## 🚀 Features
 
 * ⚡ Instant Shutdown
