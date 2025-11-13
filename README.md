@@ -29,6 +29,7 @@ Python - 3.12.7
 ## 💬 Notes
 
 * Tested on Windows 10 and Windows 11
+* Save any unsaved tasks before running.
 
 ---
 
